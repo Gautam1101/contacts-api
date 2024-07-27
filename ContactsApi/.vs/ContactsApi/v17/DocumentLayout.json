@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\tests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\tests\\contactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\tests\\contactscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\tests\\contactscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\data\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\data\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|c:\\users\\thisi\\source\\repos\\contactsapi\\contactsapi\\contactsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57FEBB75-EF38-4D78-89B0-1B6C7B01917A}|ContactsApi\\ContactsApi.csproj|solutionrelative:contactsapi\\contactsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Services\\ContactService.cs",
+              "RelativeToolTip": "ContactsApi\\Services\\ContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:59:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Tests\\ContactsControllerTests.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Tests\\ContactsControllerTests.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Tests\\ContactsControllerTests.cs",
+              "RelativeToolTip": "ContactsApi\\Tests\\ContactsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:01:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Tests\\ContactServiceTests.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Tests\\ContactServiceTests.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Tests\\ContactServiceTests.cs",
+              "RelativeToolTip": "ContactsApi\\Tests\\ContactServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:01:33.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Program.cs",
+              "RelativeToolTip": "ContactsApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:09:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\appsettings.json",
+              "RelativeToolTip": "ContactsApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T06:18:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "ContactsApi\\Repositories\\ContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:00:53.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactsApi\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:58:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ContactsApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:00:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Data\\ContactContext.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Data\\ContactContext.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Data\\ContactContext.cs",
+              "RelativeToolTip": "ContactsApi\\Data\\ContactContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:59:38.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactsApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactsApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:58:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactsApi",
+              "DocumentMoniker": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\ContactsApi.csproj",
+              "RelativeDocumentMoniker": "ContactsApi\\ContactsApi.csproj",
+              "ToolTip": "C:\\Users\\thisi\\source\\repos\\ContactsApi\\ContactsApi\\ContactsApi.csproj",
+              "RelativeToolTip": "ContactsApi\\ContactsApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T06:00:27.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
